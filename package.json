@@ -1,0 +1,39 @@
+{
+  "name": "buildestate",
+  "version": "1.0.0",
+  "description": "BuildEstate - Premium Real Estate Platform with AI-Powered Insights",
+  "private": true,
+  "scripts": {
+    "setup": "npm install && cd backend && npm install && cd ../frontend && npm install && cd ../admin && npm install",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\" \"cd admin && npm run dev\"",
+    "build": "cd backend && npm run build && cd ../frontend && npm run build && cd ../admin && npm run build",
+    "start": "cd backend && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "backend",
+    "frontend",
+    "admin"
+  ],
+  "keywords": [
+    "real-estate",
+    "property",
+    "ai",
+    "react",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Aayush Vaghela",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AAYUSH412/Real-Estate-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AAYUSH412/Real-Estate-Website/issues"
+  },
+  "homepage": "https://github.com/AAYUSH412/Real-Estate-Website#readme",
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}
