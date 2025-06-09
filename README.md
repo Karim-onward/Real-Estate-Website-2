@@ -30,10 +30,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621893f5e30c2b5/images/wave.svg" width="100%">
-</div>
-
 ## ✨ Key Features
 
 <table>
@@ -413,20 +409,6 @@ For additional help, [open an issue](https://github.com/AAYUSH412/Real-Estate-We
   </tr>
 </table>
 
-## 🏆 Project Activity
-
-<div align="center">
-  <a href="https://github.com/AAYUSH412/Real-Estate-Website">
-    <img src="https://streak-stats.demolab.com?user=AAYUSH412&theme=transparent&hide_border=true&mode=weekly&fire=2563EB&stroke=2563EB&ring=2563EB&currStreak=2563EB&sideLabels=2563EB&dates=6B7280&currStreakLabel=2563EB&sideNums=2563EB" alt="GitHub Streak" width="80%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation">
-</div>
-
 ## 🤝 Contributing
 
 We welcome contributions to BuildEstate! Please follow these steps:
@@ -475,22 +457,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)](https://www.framer.com/motion/)
 [![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-43853D?style=for-the-badge)](https://lucide.dev/)
   
-</div>
-
-Special thanks to all contributors and the open source community.
-
-## 📧 Contact & Support
-
-<div align="center">
-  <a href="https://github.com/AAYUSH412"><img src="https://img.shields.io/badge/GitHub-AAYUSH412-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:aayushvaghela12@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
-  <a href="https://github.com/AAYUSH412/Real-Estate-Website/issues"><img src="https://img.shields.io/badge/Issues-Report_Bug-F44336?style=for-the-badge&logo=github" alt="Report Bug" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="./frontend/src/assets/home-regular-24.png" alt="BuildEstate Logo" width="40" />
-  <p>Built with ❤️ by Aayush Vaghela</p>
-  <p>© 2025 BuildEstate. All Rights Reserved.</p>
 </div>
